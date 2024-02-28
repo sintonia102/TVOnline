@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="es_ES" data-bs-theme="dark">
+
+
+<!-- Mirrored from estacion.cmsmediaradio.pro/news/viewAuto/hamas-pide-a-comunidad-internacional-trabajar-por-un-estado-palestino-y-terminar-con-arrogancia by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Feb 2024 10:55:24 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head itemtype="https://schema.org/WebSite">
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Hamás pide a comunidad internacional trabajar por un Estado palestino y terminar con «arrogancia» | CMS MEDIA RADIO</title>
+	<meta name="description" content="El movimiento islamista palestino Hamás respondió este domingo a la negativa del Gobierno israelí de apoyar una propuesta internacional que culminaría con l">
+
+	<link rel="icon" href="../../public/47211-2023-11-04.jpg">
+
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Hamás pide a comunidad internacional trabajar por un Estado palestino y terminar con «arrogancia» | CMS MEDIA RADIO">
+	<meta property="og:description" content="El movimiento islamista palestino Hamás respondió este domingo a la negativa del Gobierno israelí de apoyar una propuesta internacional que culminaría con l">
+	<meta property="og:image:width" content="600">
+	<meta property="og:image:height" content="600">
+	<meta property="og:image" content="../../../assets.eldesconcierto.cl/2023/12/palestina.jpg">
+	<meta property="og:url" content="hamas-pide-a-comunidad-internacional-trabajar-por-un-estado-palestino-y-terminar-con-arrogancia.1e">
+	<link rel="canonical" href="hamas-pide-a-comunidad-internacional-trabajar-por-un-estado-palestino-y-terminar-con-arrogancia.1e">
+
+	<!-- preload -->
+	<link rel="preconnect" href="https://www.googletagmanager.com/">
+	<link rel="preconnect" href="https://www.youtube.com/">
+	<link rel="preconnect" href="https://fonts.googleapis.com/">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+
+	<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&amp;display=swap">
+	<link rel="preload" as="style" href="../../app/views/website/default/assets/css/bootstrap.min.css">
+	<link rel="preload" as="style" href="../../app/views/website/default/assets/css/maine5c1.css?v=5.0.5">
+	<!-- preload end -->
+
+	<!-- css custom -->
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&amp;display=swap">
+	<link rel="stylesheet" href="../../app/views/website/default/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../../app/views/website/default/assets/css/maine5c1.css?v=5.0.5">
+
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "WebSite",
+			"name": "CMS MEDIA RADIO",
+			"url": "https://estacion.cmsmediaradio.pro/"
+		}
+	</script>
+
+	</head>
+
+<body itemscope itemtype="https://schema.org/WebPage">
+<audio id="player_audio" preload="none" autoplay></audio>
+	<div class="sticky-top" id="player">
+		<style>
+    :root {
+        --player-color: #ffffff;
+        --player-bg: #ffc600;
+        --player-hover: #ff9800;
+    }
+</style>
+<link rel="stylesheet" href="../../app/views/players/default/player.css">
+<div class="container player-radio">
+    <div class="player-info">
+        <img loading="lazy" src="../../public/cover_default.jpg" class="rounded" alt="cover">
+        <div class="text-start">
+            <div class="now">Tocando ahora:</div>
+            <marquee direction="left" id="playingNow"></marquee>
+        </div>
+    </div>
+    <div class="player-controls" role="toolbar">
+        <button class="b-play" aria-label="Reproducir radio" data-stream="https://stream20.usastreams.com/8128/stream"></button>
+        <div class="player-volume">
+            <button class="b-volume" id="volume-mute" title="Controle de volume"></button>
+            <div class="player-volume-slider">
+                <input type="range" class="b-slider" role="slider" id="slider-volume" value="80" maxlength="100">
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+<header>
+	<nav class="navbar navbar-expand-lg bg-body-tertiary">
+		<div class="container">
+
+			<button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="offcanvas" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="fas fa-bars"></span>
+			</button>
+
+			<a class="navbar-logo" href="../../index.html">
+				<img loading="lazy" src="../../public/87083-2023-11-04.png" alt="logo">
+			</a>
+
+								<button class="navbar-toggler" type="button" aria-label="user" data-bs-toggle="modal" data-bs-target="#modalLogin">
+						<span class="fas fa-user"></span>
+					</button>
+				
+
+			<div class="offcanvas offcanvas-start" id="offcanvas">
+				<div class="offcanvas-body">
+
+					<ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+						<li class="nav-item">
+							<a id="home-active" class="nav-link" aria-current="page" href="../../index.html">Início</a>
+						</li>
+
+													<li class="nav-item">
+								<a class="nav-link" href="../../podcasts.html">Pódcasts</a>
+							</li>
+						
+													<li class="nav-item">
+								<a class="nav-link" href="../../news.html">Noticias</a>
+							</li>
+						
+													<li>
+								<a class="nav-link" href="../../photos.html">Fotos</a>
+							</li>
+						
+													<li class="nav-item">
+								<a class="nav-link" href="../../videos.html">Vídeos</a>
+							</li class="nav-item">
+						
+													<li class="nav-item">
+								<a class="nav-link" href="../../timetable.html">Programación</a>
+							</li>
+						
+													<li class="nav-item">
+								<a class="nav-link" href="../../events.html">Eventos</a>
+							</li>
+						
+													<li class="nav-item">
+								<a class="nav-link" href="../../team.html">Equipo</a>
+							</li>
+						
+																																																																																											<li class="nav-item">
+											<a class="nav-link" href="../../contact.html">Contacto</a>
+										</li>
+																	
+								<li class="nav-item dropdown">
+									<a id="dropdown-toggle" class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false">Más</a>
+									<ul class="dropdown-menu">
+																																	<li>
+													<a class="dropdown-item" href="../../about.html">Sobre nosotros</a>
+												</li>
+																																												<li>
+													<a class="dropdown-item" href="../../privacy-policy.html">Política de Privacidad</a>
+												</li>
+																																												<li>
+													<a class="dropdown-item" href="../../service-terms.html">Términos de servicio</a>
+												</li>
+																																																			</ul>
+								</li>
+																		</ul>
+
+					<div class="d-none d-lg-block">
+														<button class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#modalLogin"><span class="fas fa-user"></span> Entrar</button>
+											</div>
+
+				</div>
+			</div>
+		</div>
+	</nav>
+</header>
+
+
+<div class="container">
+	<div class="row">
+		                                                                            <section class="mb-4 col-md-12">
+                                        <div class="d-flex align-items-center justify-content-center">
+    <span id="ads-10" class="adsPub"></span>
+</div>
+                </section>
+                                                                                                                                                                                                            	</div>
+</div>
+
+<div id="ajaxArea">
+	<div class="container bg-body-tertiary p-3">
+		
+		<div class="row">
+
+			<div class="col-md-8">
+				
+				<section id="column1" class="mb-4">
+					<section id="breadcrumb" class="border-bottom mb-4">
+						    <ul aria-label="breadcrumb" class="breadcrumb" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+
+    <li class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+        <a href="../../index.html" itemprop="item" itemtype="https://schema.org/Thing">
+            <span itemprop="name">Início</span>
+        </a>
+        <meta itemprop="position" content="1">
+    </li>
+
+                                    <li class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                <a href="../../news.html" itemprop="item" itemtype="https://schema.org/Thing">
+                    <span itemprop="name">Noticias</span>
+                </a>
+                <meta itemprop="position" content="2">
+            </li>
+                                                            </ul>
+					</section>
+					
+					<article itemscope itemtype="https://schema.org/NewsArticle">
+						<h1 itemprop="headline" class="title-post">Hamás pide a comunidad internacional trabajar por un Estado palestino y terminar con «arrogancia»</h1>
+						
+						<p itemprop="description" class="mb-0">El movimiento islamista palestino Hamás respondió este domingo a la negativa del Gobierno israelí de apoyar una propuesta internacional que culminaría con l...</p>
+
+						<div class="d-flex justify-content-between align-items-center flex-sm-row  flex-column mb-3">
+							<div class="mt-3">
+								<span itemprop="datePublished" content="Sun, 18 Feb 2024 19:42:06 +0000">18/02/2024 16:42<span>
+							</div>
+							<div class="mt-3" id="shareBS" data-url="https://estacion.cmsmediaradio.pro/news/viewAuto/hamas-pide-a-comunidad-internacional-trabajar-por-un-estado-palestino-y-terminar-con-arrogancia" data-title="Hamás pide a comunidad internacional trabajar por un Estado palestino y terminar con «arrogancia» | CMS MEDIA RADIO"></div>
+						</div>
+
+						<figure class="mb-3">
+							<img itemprop="image" loading="lazy" src="../../../assets.eldesconcierto.cl/2023/12/palestina.jpg" class="img-fluid mx-auto d-block rounded col-12" alt="Hamás pide a comunidad internacional trabajar por un Estado palestino y terminar con «arrogancia»">
+							<figcaption class="mt-1 text-muted"><small>Hamás pide a comunidad internacional trabajar por un Estado palestino y terminar con «arrogancia» (Foto: Reproducción)</small></figcaption>
+						</figure>
+					
+						<p>El movimiento islamista palestino Hamás respondió este domingo a la negativa del Gobierno israelí de apoyar una propuesta internacional que culminaría con la creación de un Estado palestino, y urgió a la comunidad internacional para que trabaje por la "autodeterminación" de su pueblo.</p>
+						
+						<div class="pt-3">
+							<p class="h6">Fuente de reproducción:</p>
+							<a  href="https://www.eldesconcierto.cl/internacional/2024/02/18/hamas-pide-a-comunidad-internacional-trabajar-por-un-estado-palestino-y-terminar-con-arrogancia.html" target="_blank">https://www.eldesconcierto.cl/internacional/2024/02/18/hamas-pide-a-comunidad-internacional-trabajar-por-un-estado-palestino-y-terminar-con-arrogancia.html</a>
+						</div>
+
+					</article>
+				</section>
+				
+			</div>
+
+			<div class="col-md-4">
+				<aside>
+					<section id="column2" class="row">
+						                                            <div class="mb-4 col-md-12">
+        <h2 class="title">Locutor en directo</h2>
+        <div class="card announcer-air-card">
+            <div class="card-body info">
+
+                <div class="avatar">
+                    <img loading="lazy" src="../../public/avatar/default.jpg" class="rounded-circle" alt="announcer">
+                </div>
+
+                <div class="info flex-fill">
+                    <span class="announcer">...</span>
+                    <span class="program">...</span>
+                    <span class="date">...</span>
+                </div>
+
+                                    <div class="action flex-fill">
+                        <button data-bs-toggle="modal" data-bs-target="#modalMusicRequest" class="btn btn-sm btn-primary">Solicitar música</button>
+                    </div>
+                
+            </div>
+
+            <div class="card-body message"></div>
+        </div>
+    </div>
+                                                                                                                        <section class="mb-4 col-md-12">
+                                                                        <h2 class="title">Artista En Vivo</h2>
+                                                                	<div id="sonic_art"></div>
+<script id="sonic_js" data-port="8128" src="../../../stream20.usastreams.com/cp/widgets656a.js?r=434"></script>                </section>
+                                                                                    <section class="mb-4 col-md-12">
+                                                                        <h2 class="title">Últimas 20 Canciones</h2>
+                                                                <div id="sonic_history"></div>
+<script id="sonic_js" data-port="8128" src="../../../stream20.usastreams.com/cp/widgets7872.js?r=621"></script>                </section>
+                                                                <div class="mb-4 col-md-12">
+        <h2 class="title">Aplicaciones</h2>
+
+                    <div class="card app-card">
+                <a href="../../pwa.html" class="no-ajaxy" aria-label="Aplicación Web"></a>
+                <div class="card-body">
+                    <div class="flex-shrink-0 icon">
+                        <i class="fas fa-globe fa-3x"></i>
+                    </div>
+                    <div class="flex-grow-1 ms-3 info">
+                        <span class="d-block">Multiplataforma</span>
+                        <span class="h4 d-block mb-0">Aplicación Web</span>
+                    </div>
+                </div>
+            </div>
+        
+        
+        
+        
+            </div>
+                                                                                                <div class="mb-4 col-md-1">
+            <h2 class="title">Principales oyentes</h2>
+                            <div class="card top-client-card">
+                    <div class="card-body">
+                        <span class="num">1</span>
+                        <div class="avatar">
+                            <img loading="lazy" src="../../public/avatar/45555-2023-10-23.jpg" class="rounded-circle" alt="rodrigo">
+                        </div>
+                        <div class="info">
+                            <span class="name">rodrigo</span>
+                            <span class="points">1 Puntos</span>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+                                                                            <div class="mb-4 col-md-12">
+            <h2 class="title">Mejores canciones</h2>
+
+                            <div class="card top-music-card">
+                    <div class="card-body">
+                        <span class="num">1</span>
+                        <div class="avatar">
+                            <button class="b-play" aria-label="Reproducir música" data-stream="/public/music/audio/35315-2023-11-04.mp3"></button>
+                            <img loading="lazy" src="../../public/music/97914-2023-11-04.jpg" class="rounded-circle" alt="Neil Sedaka">
+                        </div>
+                        <div class="info">
+                            <span class="track">Laughter In The Rain</span>
+                            <span class="artist">Neil Sedaka</span>
+                        </div>
+                    </div>
+                </div>
+            
+        </div>
+                                                                <div class="mb-4 col-md-12">
+    <h2 class="title">Visitantes</h2>
+    <div class="card">
+        <div class="card-body">
+            <div class="row text-center">
+                <div class="col-6 d-flex flex-column">
+                    <i class="fas fa-users fa-2x mb-2"></i>
+                    <span class="h5 mb-1">3</span>
+                    <span>Online</span>
+                </div>
+                <div class="col-6 d-flex flex-column">
+                    <i class="fas fa-globe2 fa-2x mb-2"></i>
+                    <span class="h5 mb-1">5075</span>
+                    <span>Visitas</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <section class="mb-4 col-md-12">
+                                                                        <h2 class="title">Pronostico del Tiempo</h2>
+                                                                	<div id="ww_b18328bf33df2" v='1.3' loc='id' a='{"t":"responsive","lang":"es","sl_lpl":1,"ids":["wl10181"],"font":"Arial","sl_ics":"one_a","sl_sot":"celsius","cl_bkg":"#000000","cl_font":"#FFFFFF","cl_cloud":"#FFFFFF","cl_persp":"#81D4FA","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722","cl_odd":"#FFFFFF17"}'>Más previsiones: <a href="https://tiempolargo.com/puente_alto_tiempo_25_dias/" id="ww_b18328bf33df2_u" target="_blank">25 días tiempo en Puente Alto</a></div><script async src="https://app2.weatherwidget.org/js/?id=ww_b18328bf33df2"></script>                </section>
+                                                            <section class="mb-4 col-md-12">
+                                                                        <h2 class="title">Horóscopo Gratis</h2>
+                                                                <div id="fortune-widget" ft_type="dailyHoroscope" ft_bgcolor="ffffff" ft_fgcolor="000000" ft_width="350px" ft_height="auto" ft_imagetype="2" ft_data="None"></div><script src="../../../www.prediccion-del-futuro.com/widgets/fabulous_es.js" type="text/javascript"></script>	                </section>
+                                                            <section class="mb-4 col-md-12">
+                                                                        <h2 class="title"></h2>
+                                                                <a href="https://info.flagcounter.com/i8t9"><img src="https://s01.flagcounter.com/countxl/i8t9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>                </section>
+                        					</section>
+				</aside>
+			</div>
+
+
+		</div>
+		
+	</div>
+</div>
+
+<footer>
+    <section class="container bg-body-secondary p-3" id="footer">
+        <div class="row">
+                                                                            <section class="mb-4 col-md-2">
+                                                                        <h5 class="title">Institucional</h5>
+                                                                <ul class="navbar-nav">
+	<li class="nav-item"><a href="../../about.html" class="nav-link">Sobre Nosotros</a></li>
+	<li class="nav-item"><a href="../../timetable.html" class="nav-link">Programación </a></li>
+</ul>                </section>
+                                                                                    <section class="mb-4 col-md-2">
+                                                                        <h5 class="title">Políticas</h5>
+                                                                <ul class="navbar-nav">
+	<li class="nav-item"><a href="../../service-terms.html" class="nav-link">Términos de servicio</a></li>
+	<li class="nav-item"><a href="../../privacy-policy.html" class="nav-link">Política de Privacidad </a></li>
+</ul>                </section>
+                                                                                    <section class="mb-4 col-md-8">
+                                        <div class="d-flex align-items-center justify-content-center">
+    <span id="ads-11" class="adsPub"></span>
+</div>
+                </section>
+                                                                                                                                                        </div>
+    </section>
+
+    <section class="container p-3 d-flex flex-sm-row" id="footer-info">
+        <p class="mb-3 mt-3">© CMS MEDIA RADIO - Todos los derechos reservados.</p>
+
+        <ul class="nav nav-pills nav-fill mb-0">
+
+                            <li class="ms-2"><a href="https://api.whatsapp.com/send?phone=56944644669" target="_blank" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a></li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </ul>
+
+
+
+    </section>
+</footer>
+
+            <a id="whatsapp-button" href="https://api.whatsapp.com/send?phone=56944644669" target="_blank" aria-label="WhatsApp">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+    
+<div class="alert text-center cookiealert" role="alert"></div>
+
+        <div class="modal fade" id="modalLogin" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="modalLogin" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered ">
+                <div class="modal-content">
+                    <div class="modal-header text-center border-0">
+                        <h5 class="modal-title fs-5 w-100">Entrar</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form id="userLogin" method="post" class="no-ajaxy">
+                            <div class="form-floating mb-3">
+                                <input type="text" class="form-control" id="username" placeholder="Usuario / Correo electrónico" name="username" autocomplete="username" required="">
+                                <label for="username">Usuario / Correo electrónico</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input type="password" class="form-control" id="password" placeholder="Contraseña" name="password" autocomplete="current-password" required="">
+                                <label for="password">Contraseña</label>
+                            </div>
+
+                            <div class="text-end mb-3">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#modalPassReset">Olvidaste tu contraseña?</a>
+                            </div>
+
+                            <div class="mb-4 text-center">
+                                <button type="submit" class="submit btn btn-primary">Entrar</button>
+                                <button class="loading btn btn-primary d-none" type="button" disabled="">
+                                    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Cargando...</span>
+                                </button>
+                                <span id="res-message" class="d-block mt-3"></span>
+                            </div>
+                            <div class="text-center  mb-3">
+                                <span>¿No tienes una cuenta?</span>
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#modalRegister">Registro</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="modalRegister" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="modalRegister" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header text-center border-0">
+                        <h5 class="modal-title fs-5 w-100">Registro</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form id="userRegister" method="post" class="no-ajaxy">
+                            <div class="form-floating mb-3">
+                                <input type="text" class="form-control" id="full_name" placeholder="Nombre y apellido" name="full_name" required="" maxlength="40">
+                                <label for="full_name">Nombre y apellido</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input type="email" class="form-control" id="email" pattern="[^@]+@[^@]+\.[a-zA-Z]{2,10}" placeholder="Correo electrónico" name="email" required="">
+                                <label for="email">Correo electrónico</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input type="text" class="form-control" id="user_name_reg" placeholder="Usuario" name="username" pattern="[a-zA-Z0-9]+" required="" minlength="3" maxlength="30">
+                                <label for="user_name_reg">Usuario</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input type="password" autocomplete="new-password" class="form-control" id="password_reg" placeholder="Contraseña" name="password" required="" minlength="8">
+                                <label for="password_reg">Contraseña</label>
+                            </div>
+                            <span class="captcha-code-modal"></span>
+                            <div class="mb-3 text-center">
+                                <button type="submit" class="submit btn btn-primary">Registro</button>
+                                <button class="loading btn btn-primary d-none" type="button" disabled="">
+                                    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Cargando...</span>
+                                </button>
+                                <span id="res-message" class="d-block mt-3"></span>
+                            </div>
+                            <div class="mb-4 text-center">
+                                <small>Al registrarte, aceptas nuestra <a data-bs-dismiss="modal" href="../../service-terms.html">Términos</a> e <a data-bs-dismiss="modal" href="../../privacy-policy.html">Política de privacidad</a></small>
+                            </div>
+                            <div class="text-center mb-3">
+                                <span>¿Tener una cuenta?</span>
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#modalLogin">Entrar</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="modalVerify" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="modalVerify" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header text-center border-0">
+                        <span class="modal-title fs-5 w-100">código de verificación</span>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form id="codeVerify" method="post" class="no-ajaxy">
+                            <input id="action_verify" type="hidden" name="action" value="">
+                            <p>Se ha enviado un código de verificación a su correo electrónico.</p>
+                            <div class="form-floating mb-3">
+                                <input type="number" class="form-control" id="code_verify" placeholder="000000" name="code_verify" required="" maxlength="32">
+                                <label for="code_verify">Escribe el código</label>
+                            </div>
+                            <div class="mb-3 text-center">
+                                <button type="submit" class="submit btn btn-primary">Verificar</button>
+                                <button class="loading btn btn-primary d-none" type="button" disabled="">
+                                    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Cargando...</span>
+                                </button>
+                                <span id="res-message" class="d-block mt-3"></span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="modalPassReset" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="modalPassReset" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header text-center border-0">
+                        <span class="modal-title fs-5 w-100">Olvidaste tu contraseña?</span>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form id="userPassReset" method="post" class="no-ajaxy">
+                            <p>Ingrese su correo electrónico a continuación y le enviaremos un código para restablecer su contraseña.</p>
+                            <div class="form-floating mb-3">
+                                <input type="email" class="form-control" id="email-pass-reset" placeholder="" name="email-pass-reset" required="">
+                                <label for="email-pass-reset">Correo electrónico</label>
+                            </div>
+                            <div class="mb-3 text-center">
+                                <button type="submit" class="submit btn btn-primary">Mandar</button>
+                                <button class="loading btn btn-primary d-none" type="button" disabled="">
+                                    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Cargando...</span>
+                                </button>
+                                <span id="res-message" class="d-block mt-3"></span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+<div class="modal fade" id="modalMsg" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="modalMsg" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header text-center border-0">
+                <span id="title" class="modal-title fs-5 w-100"></span>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+                <span id="content"></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="modal fade" id="modalMusicRequest" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="modalMusicRequest" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header text-center border-0">
+                    <span class="modal-title fs-5 w-100">Solicita tu música</span>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="musicRequest" method="post" class="no-ajaxy">
+                        <div class="form-floating mb-3">
+                            <input type="text" class="form-control" id="request_name" placeholder="Nombre" name="request_name" required="" maxlength="40">
+                            <label for="request_name">Nombre</label>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <input type="text" class="form-control" id="request_email" placeholder="Correo electrónico" name="request_email" required="" pattern="[^@]+@[^@]+\.[a-zA-Z]{2,10}">
+                            <label for="request_email">Correo electrónico</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <textarea class="form-control h-100" name="request_music" id="request_music" rows="4" placeholder="Música" required></textarea>
+                            <label for="request_music">Música</label>
+                        </div>
+                        <span class="captcha-code-modal"></span>
+                        <div class="mb-3 text-center">
+                            <button type="submit" class="submit btn btn-primary">Mandar</button>
+                            <button class="loading btn btn-primary d-none" type="button" disabled="">
+                                <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                                <span class="visually-hidden">Cargando...</span>
+                            </button>
+                            <span id="res-message" class="d-block mt-3"></span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+<script defer src="../../app/views/website/default/assets/js/jquery.min.js"></script>
+<script defer src="../../app/views/website/default/assets/js/ajaxify.min.js"></script>
+<script defer src="../../app/views/website/default/assets/js/bootstrap.bundle.min.js"></script>
+<!-- script custom -->
+<script defer src="../../app/views/website/default/assets/js/maine5c1.js?v=5.0.5"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-44VKED1NXH"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-44VKED1NXH', {
+            'page_path': location.href.replace(location.origin, "")
+        });
+    </script>
+<script>
+    var CONFIG = {
+        themeMode: 'dark', // dark, light, auto
+        lang: {
+            this_uses_cookies: "¡Este sitio utiliza cookies!",
+            using_agree_to_our: "Al utilizar este sitio, usted acepta nuestra",
+            privacy_policy: "Política de privacidad",
+            to_accept: "Aceptar"
+        },
+        pathSystem: '/',
+        clientId: '',
+        page1: 'news',
+        page2: 'viewAuto',
+        page3: 'hamas-pide-a-comunidad-internacional-trabajar-por-un-estado-palestino-y-terminar-con-arrogancia'
+    };
+</script>
+
+</body>
+
+
+<!-- Mirrored from estacion.cmsmediaradio.pro/news/viewAuto/hamas-pide-a-comunidad-internacional-trabajar-por-un-estado-palestino-y-terminar-con-arrogancia by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Feb 2024 10:55:24 GMT -->
+</html>
