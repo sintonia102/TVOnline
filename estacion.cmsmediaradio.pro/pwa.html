@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es_ES" data-bs-theme="dark">
+
+
+<!-- Mirrored from estacion.cmsmediaradio.pro/pwa by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Feb 2024 10:55:24 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="robots" content="noindex, nofollow">
+	<title>CMS MEDIA  RADIO</title>
+	<meta name="description" content="Sitio Web Para Radios Con Panel De Administración .">
+
+	<link rel="icon" href="https://estacion.cmsmediaradio.pro/public/47211-2023-11-04.jpg">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="CMS MEDIA  RADIO">
+	<meta property="og:description" content="Sitio Web Para Radios Con Panel De Administración .">
+	<meta property="og:image:width" content="600">
+	<meta property="og:image:height" content="600">
+	<meta property="og:image" content="https://estacion.cmsmediaradio.pro/public/61178-2023-11-04.png">
+	<meta property="og:url" content="https://estacion.cmsmediaradio.pro/pwa">
+	<link rel="canonical" href="https://estacion.cmsmediaradio.pro/pwa">
+
+	<link rel="manifest" href="https://estacion.cmsmediaradio.pro/api/manifestPwa?v=5.0.5" />
+	<!-- ios support -->
+	<link rel="apple-touch-icon" href="https://estacion.cmsmediaradio.pro/public/47211-2023-11-04.jpg" />
+	<meta name="apple-mobile-web-app-status-bar" content="#000000" />
+	<meta name="theme-color" content="#000000" />
+
+	<!-- preload -->
+	<link rel="preconnect" href="https://fonts.googleapis.com/">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+	<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&amp;display=swap">
+	<!-- preload end -->
+
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&amp;display=swap">
+	<link rel="stylesheet" href="https://estacion.cmsmediaradio.pro/app/views/website/default/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://estacion.cmsmediaradio.pro/app/views/website/default/assets/css/pwa.css?v=5.0.5">
+
+	
+</head>
+
+<body>
+	<audio id="player_audio" preload="none" autoplay></audio>
+	<div class="container-fluid">
+		<div class="d-flex align-items-center flex-column " style="height:90vh">
+
+			<header class="mb-auto">
+				<nav class="navbar fixed-top">
+					<div class="container-fluid">
+						<a class="navbar-toggler" href="https://estacion.cmsmediaradio.pro/" target="_blank" aria-label="website">
+							<span class="fas fa-globe"></span>
+						</a>
+
+						<div class="navbar-logo">
+							<img loading="lazy" src="https://estacion.cmsmediaradio.pro/public/87083-2023-11-04.png" alt="logo">
+						</div>
+
+						<button class="navbar-toggler" type="button" id="shareBS" data-url="https://estacion.cmsmediaradio.pro/pwa" data-title="CMS MEDIA  RADIO" aria-label="Share">
+							<span class="fas fa-share"></span>
+						</button>
+					</div>
+				</nav>
+			</header>
+
+			<section class="player text-center mb-4">
+				<div class="player-info d-flex flex-column mb-3">
+					<img loading="lazy" class="rounded mx-auto d-block mb-3" src="https://estacion.cmsmediaradio.pro/public/cover_default.jpg" alt="cover">
+					<div class="text-center">
+						<div class="now">Tocando ahora:</div>
+						<marquee direction="left" id="playingNow">...</marquee>
+					</div>
+				</div>
+				<div class="player-control">
+					<button class="b-play" aria-label="Reproducir radio" data-stream="https://stream20.usastreams.com/8128/stream"></button>
+				</div>
+			</section>
+
+			<footer class="mb-auto">
+				<ul class="nav nav-pills justify-content-center">
+
+											<li><a href="https://api.whatsapp.com/send?phone=56944644669" target="_blank" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a></li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+
+				<div class="mt-5">
+					<span id="LoadAds"></span>
+				</div>
+
+			</footer>
+		</div>
+	</div>
+
+	<!-- Modal -->
+	<div class="modal fade" id="installModal" tabindex="-1" aria-labelledby="installModal" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered ">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div class="text-end">
+						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+					</div>
+					<div class="mb-4">
+						<div class="text-center">
+							<img class="rounded mb-4" src="https://estacion.cmsmediaradio.pro/public/47211-2023-11-04.jpg" alt="Aplicación Web">
+							<h1 class="mb-3 fs-5 text-uppercase">Instalar aplicación web</h1>
+							<p>Instale este aplicativo web no seu dispositivo para acessá-lo facilmente a qualquer momento.</p>
+						</div>
+						<ol>
+							<li>Clique no botão abaixo <b>Instalar Agora</b>.</li>
+							<li>Clique em <b>Instalar</b> para autorizar a instalação.</li>
+							<li>Pronto! O app foi instalado na tela de início.</li>
+						</ol>
+					</div>
+					<div class="text-center mb-3">
+						<button type="button" id="install" class="btn btn-primary">Instalar Agora</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="modal fade" id="installModalIos" tabindex="-1" aria-labelledby="installModal" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered ">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div class="text-end">
+						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+					</div>
+					<div class="mb-4">
+						<div class="text-center">
+							<img class="rounded mb-4" src="https://estacion.cmsmediaradio.pro/public/47211-2023-11-04.jpg" alt="Aplicación Web">
+							<h1 class="mb-3 fs-5 text-uppercase">Instalar aplicación web</h1>
+							<p>Instale este aplicativo web no seu dispositivo para acessá-lo facilmente a qualquer momento.</p>
+						</div>
+						<ol>
+							<li>
+								Toque em <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+									<path fill="currentColor" d="M17 8h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-9a2 2 0 0 1 2-2h2v2H5v9h14v-9h-2V8zM6.5 5.5l1.414 1.414L11 3.828V14h2V3.828l3.086 3.086L17.5 5.5L12 0L6.5 5.5z" />
+									</svg> de compartilhar.							</li>
+							<li>Clique na opção Adicionar à Tela de Início.</li>
+							<li>Pronto! O app foi instalado na tela de início.</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script defer src="https://estacion.cmsmediaradio.pro/app/views/website/default/assets/js/jquery.min.js"></script>
+	<script defer src="https://estacion.cmsmediaradio.pro/app/views/website/default/assets/js/bootstrap.bundle.min.js"></script>
+	<script defer src="https://estacion.cmsmediaradio.pro/app/views/website/default/assets/js/pwa.js?v=5.0.5"></script>
+
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-44VKED1NXH"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
+			gtag('config', 'G-44VKED1NXH', {
+				'page_path': location.href.replace(location.origin, "")
+			});
+		</script>
+		<script>
+		var CONFIG = {
+			themeMode: 'dark', // dark, light, auto
+			pathSystem: '/'
+		};
+	</script>
+</body>
+
+
+<!-- Mirrored from estacion.cmsmediaradio.pro/pwa by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Feb 2024 10:55:24 GMT -->
+</html>
