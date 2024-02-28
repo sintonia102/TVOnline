@@ -1,0 +1,128 @@
+#player {
+	background: var(--player-bg);
+	color: var(--player-color);
+	line-height: 1.2;
+}
+
+#player .player-radio {
+	display: flex;
+	align-items: center;
+	padding: 0.5rem;
+}
+
+.player-info {
+	display: flex;
+	flex: 1 1 auto !important;
+	align-items: center;
+	margin-right: 0.5rem;
+	max-width: 892px;
+}
+
+.player-info img {
+	height: 48px;
+	width: 48px;
+	margin-right: 0.5rem;
+}
+
+.player-info .now {
+	font-weight: 700;
+	padding-bottom: 6px;
+}
+
+.player-controls {
+	display: flex;
+}
+
+.player-controls .b-play,
+.player-controls .b-stop,
+.player-controls .b-volume,
+.player-controls .b-mute {
+	background: none;
+	border: none;
+	padding: 0;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	height: 48px;
+}
+
+.player-controls .b-play::before,
+.player-controls .b-volume::before,
+.player-controls .b-mute::before {
+	color: var(--player-color);
+}
+
+.player-controls .b-stop::before {
+	color: var(--player-hover);
+}
+
+.player-controls .b-play:hover::before,
+.player-controls .b-stop:hover::before,
+.player-controls .b-volume:hover::before,
+.player-controls .b-mute:hover::before {
+	color: var(--player-hover);
+}
+
+.player-controls .b-play::before,
+.player-controls .b-stop::before,
+.player-controls .b-volume::before,
+.player-controls .b-mute::before {
+	display: inline-block;
+	vertical-align: middle;
+	height: 28px;
+	width: 28px;
+	font-family: 'Font Awesome 6 Free';
+	font-size: 28px;
+	line-height: 28px;
+	font-style: normal;
+	text-decoration: none;
+	-webkit-transition: .15s;
+	transition: .15s;
+}
+
+.player-volume {
+	position: relative;
+	z-index: 1038;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+	align-self: center;
+	flex: 0 0 48px;
+	margin-left: 1.2rem;
+}
+
+@media screen and (max-width: 767px) {
+	.player-volume {
+		display: none !important;
+	}
+}
+
+.player-volume-slider {
+	position: absolute;
+	right: 0px;
+	height: 0;
+	width: 36px;
+	overflow: hidden;
+	top: 56px;
+	border-radius: 4px 4px 0 0;
+	background: var(--bs-emphasis-color);
+	box-shadow: 0 -6px 8px -2px rgba(0, 9, 27, 0.36);
+	transition: height 0.15s;
+}
+
+.player-volume:hover .player-volume-slider {
+	height: 160px;
+}
+
+.player-volume .b-volume,
+.player-volume .b-mute {
+	position: relative;
+}
+
+.player-volume .b-slider {
+	writing-mode: vertical-lr;
+	width: 0px;
+	height: 150px;
+	padding: 0 5px;
+	margin-top: 5px;
+}
