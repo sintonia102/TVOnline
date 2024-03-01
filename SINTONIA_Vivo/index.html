@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="es">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-12CV0B45ZB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-12CV0B45ZB');
+</script>
+<meta charset="utf-8">
+<title>SINTONIA MONTE MAÍZ 102.5</title>
+<meta name="theme-color" content="#06607e">
+<!-- Agrega el código de seguimiento de Google Analytics aquí -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-12CV0B45ZB');
+</script>
+</head>
+<body>
+<!-- Resto del contenido de tu página -->
+</head>
+<body>
+<link href="css/redes.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+
+.fs-vid-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0 0;
+    z-index: 250;
+}
+.fs-vid-background video {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+video {
+    max-width: 100%;
+}
+#capa1{ 
+
+ background-color:transparent;
+ position: relative;
+ display: flex;
+ height: 10vh;
+ align-items: center;
+ justify-content: right;
+ margin: -1px auto;
+ left: -2px;	
+ z-index: 300;
+}	
+</style>
+<div class="fs-vid-background">
+  <video autoplay="true" muted="true" loop="true">
+    <source src="link video fondo" type="video/mp4">
+  </video>
+</div>	
+<script src="js/jquery-3.2.1.min.js"></script> 
+<script src="js/player-luna.js"></script>
+
+<div id="lunaradio" style="width:100%; height: 100%; position: absolute; left:0; top:0; z-index: 300; ">
+</div>
+
+<script>
+$("#lunaradio").lunaradio({
+token: "",
+userinterface: "big", //big o small
+backgroundcolor: "#063970",
+fontcolor: "#FFFFFF",
+hightlightcolor: "#3811D4", 
+fontname: "Anton",
+googlefont: "Palanquin Dark", 
+fontratio: "0.4", 
+radioname: "SINTONIA 102.5 FM - MONTE MAÍZ", //nombre de radio
+scroll: "true",
+autoplay: "true", 
+coverimage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9W7yU9FOzw2akCSaGFFg1QvrpOr5eZY-slmJMDa7-sC3g5PW7j6EkA7xSHysbAhDeL8tXc324SvseLMkj0ZqCUCcejt7AGDOigT6yUQghzgR3ZuNUJM3whI8_eCpVj4Yf8D3h-3zc1pah4xlFKgktRuIc_htPvRYDX4NUyip-_nxbLzQp3kPHxRmu/s16000/logo%20para%20reproductor%20online%20blanco.png", //link o ruta de logo radio
+onlycoverimage: "false", //true para mostrar solo logo radio
+coverstyle: "animated",//circle o square o hits1
+usevisualizer: "real", 
+visualizertype: "7", 
+multicolorvisualizer: "true",
+color1: "#06607e",
+color2: "#0a96c5",
+color3: "#162fe4",
+color4: "#00ffea",
+visualizeropacity: "1.10",
+usestreamcorsproxy: "false", //true o false
+corsproxy: "", 
+streamurl:"https://server4.hostradios.com:7300", 
+streamtype: "shoutcast2", //shoutcast2, icecast2, radiozeno, radionomy, radiojar, radioco
+icecastmountpoint: "",
+shoutcastpath: "/stream",
+streamid: "1", 
+streamsuffix: "", 
+radionomyid: "", 
+radionomyapikey: "",
+radiojarid: "",  
+radiocoid: "",
+itunestoken: "1000lIPN",
+metadatainterval: "5000", 
+displayliveicon: "true",
+volume: "100",
+debug: "false",
+});
+</script>
+</body>
+<center>
+<div id="capa1">
+	<div class="shared-panel">
+		<span><font color="#3C56FF">Compartir</font></span>
+		<br>
+		<a href="https://www.facebook.com/sintonia102" target="_blank" class="shared fb" title="Facebook"></a>	
+		<a href="https://www.youtube.com/c/SintoniaTV" target="_blank" class="shared tt" title="YOUTUBE"></a>
+		<a href="https://www.sintonia102.com/" target="_blank" class="shared gp"  title="WEB"></a>
+		<a  data-action='share/whatsapp/share' class="shared wa" title="WhatsApp"></a>
+		<a href="URL Email" target="_blank" class="shared ce" id="sml" title="Email"></a></div>
+</center>	
+</html>
